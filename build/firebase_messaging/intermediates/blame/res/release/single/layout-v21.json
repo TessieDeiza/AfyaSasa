@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tessydeiza/Documents/PluginWorkSpace/apps/afyasasa/build/firebase_messaging/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tessydeiza/.gradle/caches/transforms-2/files-2.1/f31c99dbd5824ee953ed48154dad68ba/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tessydeiza/Documents/PluginWorkSpace/apps/afyasasa/build/firebase_messaging/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tessydeiza/.gradle/caches/transforms-2/files-2.1/f31c99dbd5824ee953ed48154dad68ba/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tessydeiza/Documents/PluginWorkSpace/apps/afyasasa/build/firebase_messaging/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tessydeiza/.gradle/caches/transforms-2/files-2.1/f31c99dbd5824ee953ed48154dad68ba/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tessydeiza/Documents/PluginWorkSpace/apps/afyasasa/build/firebase_messaging/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/tessydeiza/.gradle/caches/transforms-2/files-2.1/f31c99dbd5824ee953ed48154dad68ba/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]

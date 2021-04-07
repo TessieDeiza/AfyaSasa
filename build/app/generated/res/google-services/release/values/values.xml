@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">481390832482-23028c8a9bhkq3mo4gggfesfbo1o5ntr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://afyasasa-auth-7a5a9.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">481390832482</string>
+    <string name="google_api_key" translatable="false">AIzaSyDSL9Mh6Oayx624x6Ymb3vhe3qNNpU0H4w</string>
+    <string name="google_app_id" translatable="false">1:481390832482:android:aa918595a07cd009a7da3b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDSL9Mh6Oayx624x6Ymb3vhe3qNNpU0H4w</string>
+    <string name="google_storage_bucket" translatable="false">afyasasa-auth-7a5a9.appspot.com</string>
+    <string name="project_id" translatable="false">afyasasa-auth-7a5a9</string>
+</resources>

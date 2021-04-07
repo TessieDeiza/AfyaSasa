@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "481390832482",
+      "firebase_url": "https://afyasasa-auth-7a5a9.firebaseio.com",
+      "project_id": "afyasasa-auth-7a5a9",
+      "storage_bucket": "afyasasa-auth-7a5a9.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:481390832482:android:aa918595a07cd009a7da3b",
+          "android_client_info": {
+            "package_name": "ke.plugin.afyasasa"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "481390832482-lhmj75su4ql2hphimn0hmitifj2ark0t.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "ke.plugin.afyasasa",
+              "certificate_hash": "15ff14b3849019e18147dd5715827355119de05a"
+            }
+          },
+          {
+            "client_id": "481390832482-23028c8a9bhkq3mo4gggfesfbo1o5ntr.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDSL9Mh6Oayx624x6Ymb3vhe3qNNpU0H4w"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "481390832482-23028c8a9bhkq3mo4gggfesfbo1o5ntr.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11/
+contact_picker=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/contact_picker-0.0.2/
+firebase_analytics=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.16/
+firebase_analytics_web=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.1.1/
+firebase_auth=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/
+firebase_core=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/
+firebase_core_web=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+firebase_messaging=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.16/
+firebase_storage=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.6/
+flutter_plugin_android_lifecycle=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.9/
+image_picker=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+7/
+path_provider_linux=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+shared_preferences=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.10/
+shared_preferences_linux=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+2/
+shared_preferences_macos=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+10/
+shared_preferences_web=/Users/tessydeiza/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
